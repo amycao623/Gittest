@@ -1,0 +1,559 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="E:\Test\GeoQuiz" />
+        <option value="E:\Test\MyApplication2" />
+        <option value="E:\Test\MyApplication" />
+        <option value="E:\Test\Scroll" />
+        <option value="E:\Test\SqliteDemo" />
+        <option value="E:\Test\Workout" />
+        <option value="E:\Test\ImagePicker" />
+        <option value="E:\Test\Test" />
+        <option value="E:\Project\SuzhouMoney" />
+        <option value="E:\Test\PopupWindowDemo" />
+        <option value="E:\Test\MapTest" />
+        <option value="E:\BaiduMap\BaiduLBS_AndroidSDK_Sample\BaiduMap_AndroidSDK_v4.3.0_Sample\BaiduMapsApiASDemo" />
+        <option value="E:\EasyAR\EasyARSDKSamples\Android\HelloARNative" />
+        <option value="E:\Test\FreelineDemo" />
+        <option value="E:\Test\TestDemo" />
+        <option value="E:\Project\DuoYingBao" />
+        <option value="E:\Project\projectdyb" />
+        <option value="E:\OpenSource\BaiduLBS_AndroidSDK_Sample\BaiduLBS_AndroidSDK_Sample\BaiduMap_AndroidSDK_v4.2.1_Sample\BaiduMapsApiASDemo" />
+        <option value="E:\Project\CloudRumor" />
+        <option value="E:\Test\FreelineTest" />
+        <option value="E:\Test\NewTest" />
+        <option value="E:\Test\DbDemo" />
+        <option value="E:\Test\MVPtest" />
+        <option value="E:\Test\MVPSample1" />
+        <option value="E:\Test\ProgressDialogDemo" />
+        <option value="E:\Project\MyLeisure" />
+        <option value="E:\MyLeisure" />
+        <option value="E:\SuzhouMoney" />
+        <option value="E:\OpenSource\Leisure" />
+        <option value="E:\OpenSource\MVPSample" />
+        <option value="E:\OpenSource\ZhuanLan" />
+        <option value="E:\OpenSource\EverMemo-master" />
+        <option value="E:\第三方开源库\Talon-for-Twitter-master" />
+        <option value="E:\project" />
+        <option value="E:\Navigations\Navigation1" />
+        <option value="E:\Navigations\Nevigation3" />
+        <option value="E:\Navigations\Navigation2" />
+        <option value="E:\RoundProgressbar" />
+        <option value="E:\ActionbarDemo" />
+        <option value="F:\SuzhouMoney" />
+        <option value="E:\MyApplication" />
+        <option value="E:\PermissionDemo" />
+        <option value="E:\AnimationDemo" />
+        <option value="E:\FireSystem" />
+        <option value="E:\vxvvb" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="E:\Test\GeoQuiz" />
+      </list>
+    </option>
+    <option name="lastPath" value="E:\Test\GeoQuiz" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="E:\ActionbarDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1474781129217" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\AnimationDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2821654" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1474203375037" />
+              <option name="buildTimestamp" value="1461772800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\BaiduMap\BaiduLBS_AndroidSDK_Sample\BaiduMap_AndroidSDK_v4.3.0_Sample\BaiduMapsApiASDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1491753379043" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\EasyAR\EasyARSDKSamples\Android\HelloARNative">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1491495004278" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\FireSystem">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2821654" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1474121955929" />
+              <option name="buildTimestamp" value="1461772800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2821654" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1474381847725" />
+              <option name="buildTimestamp" value="1461772800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\MyLeisure">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1485045631874" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Navigations\Navigation1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1480002503764" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Navigations\Navigation2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1479914019378" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Navigations\Nevigation3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1479997872839" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\OpenSource\BaiduLBS_AndroidSDK_Sample\BaiduLBS_AndroidSDK_Sample\BaiduMap_AndroidSDK_v4.2.1_Sample\BaiduMapsApiASDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1489504038671" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\OpenSource\EverMemo-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1482848090530" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\OpenSource\Leisure">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1484748821451" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\OpenSource\MVPSample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1483196737576" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\OpenSource\ZhuanLan">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1482851414471" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\PermissionDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2821654" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1474298754226" />
+              <option name="buildTimestamp" value="1461772800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Project\CloudRumor">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1489415280429" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Project\DuoYingBao">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1491318690677" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Project\MyLeisure">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1486114748094" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Project\SuzhouMoney">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1500992666334" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Project\projectdyb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1490109461044" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\RoundProgressbar">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1475814937976" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\SuzhouMoney">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1484997672236" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\DbDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1488984803143" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\FreelineDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1491492403184" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\FreelineTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1489302963092" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\GeoQuiz">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1523451249835" />
+              <option name="buildTimestamp" value="1510251716871" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\ImagePicker">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1502318578452" />
+              <option name="buildTimestamp" value="1496678400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\MVPSample1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1487686315810" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\MVPtest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1487689789832" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\MapTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1491835263912" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1514713689859" />
+              <option name="buildTimestamp" value="1510251691380" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\MyApplication2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1519395710214" />
+              <option name="buildTimestamp" value="1510251717096" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\NewTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1489293890405" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\PopupWindowDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1499869681782" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\ProgressDialogDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1487256362507" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\Scroll">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1510581043430" />
+              <option name="buildTimestamp" value="1496678400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\SqliteDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1505141163061" />
+              <option name="buildTimestamp" value="1496678400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\Test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1501684018394" />
+              <option name="buildTimestamp" value="1496678400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\TestDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1491430371774" />
+              <option name="buildTimestamp" value="1487865600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Test\Workout">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1503667869735" />
+              <option name="buildTimestamp" value="1496678400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1480856957319" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\vxvvb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2821654" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1473959967470" />
+              <option name="buildTimestamp" value="1461772800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\第三方开源库\Talon-for-Twitter-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1482846182309" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\SuzhouMoney">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3276617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1474557129261" />
+              <option name="buildTimestamp" value="1473868800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="E:/Test" />
+  </component>
+</application>

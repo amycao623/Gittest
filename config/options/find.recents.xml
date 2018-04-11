@@ -1,0 +1,36 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>iv_direction</find>
+      <find>ll_about_me</find>
+      <find>rl_disconnect</find>
+      <find>kfTime</find>
+      <find>tvFbrq</find>
+      <find>mPresenter</find>
+      <find>menu</find>
+      <find>d_b</find>
+      <find>R.layout</find>
+      <find>lout_service</find>
+      <find>serviceLay</find>
+      <find>siteList</find>
+      <find>serviceEntranceIVew</find>
+      <find>upLoadHeadIconSuccess</find>
+      <find>data</find>
+      <find>isHeadIconChanged</find>
+      <find>saveForAdd</find>
+      <find>isCreate</find>
+      <find>LatLngBounds</find>
+      <find>search</find>
+      <find>loadIndex</find>
+      <find>mSuggestionSearch</find>
+      <find>mPoiSearch</find>
+      <find>onVolleyErrorResponse</find>
+      <find>showDialog</find>
+      <find>REQUEST_CODE_PREVIEW</find>
+      <find>IMAGE_ITEM_ADD</find>
+      <find>mPopupWindow</find>
+      <find>mOnDismissListener</find>
+      <find>adapter</find>
+    </findStrings>
+  </component>
+</application>

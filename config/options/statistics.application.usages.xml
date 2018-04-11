@@ -1,0 +1,178 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="Navigation2" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1479915745209" />
+      <project id="PermissionDemo" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1474299056332" />
+      <project id="Talon-for-Twitter-master" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1482847869089" />
+      <project id="FireSystem" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.ssh.enabled" collectionTime="1474122092456" />
+      <project id="MVPtest" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1487689797507" />
+      <project id="Nevigation3" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1480002503276" />
+      <project id="ZhuanLan" values="config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1482852108410" />
+      <project id="ActionbarDemo" values="config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1474801142920" />
+      <project id="RoundProgressbar" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.ssh.enabled" collectionTime="1475826896686" />
+      <project id="Axvvb" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1473956768073" />
+      <project id="CloudRumor" values="config.ssh.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1488979927401" />
+      <project id="SuzhouMoney" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1488590637949" />
+      <project id="AnimationDemo" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1474205682993" />
+      <project id="MyLeisure" values="config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled" collectionTime="1486134398033" />
+      <project id="ProgressDialogDemo" values="config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled" collectionTime="1487259658456" />
+      <project id="DbDemo" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1488986127636" />
+      <project id="MVPSample" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1483197774265" />
+      <project id="Navigation1" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled" collectionTime="1480002507151" />
+      <project id="project" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled" collectionTime="1480861138145" />
+      <project id="EverMemo-master" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled" collectionTime="1482848551924" />
+      <project id="MVPSample1" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1487689789282" />
+    </group>
+    <group name="language-level">
+      <project id="Navigation2" values="JDK_1_7" collectionTime="1479915745186" />
+      <project id="PermissionDemo" values="JDK_1_8,JDK_1_7" collectionTime="1474299056329" />
+      <project id="Talon-for-Twitter-master" values="JDK_1_6" collectionTime="1482847869089" />
+      <project id="FireSystem" values="JDK_1_7" collectionTime="1474122092454" />
+      <project id="MVPtest" values="JDK_1_7" collectionTime="1487689797507" />
+      <project id="Nevigation3" values="JDK_1_7" collectionTime="1480002503257" />
+      <project id="ZhuanLan" values="JDK_1_7" collectionTime="1482852108410" />
+      <project id="ActionbarDemo" values="JDK_1_7" collectionTime="1474801142904" />
+      <project id="RoundProgressbar" values="JDK_1_7" collectionTime="1475826896665" />
+      <project id="Axvvb" values="JDK_1_7" collectionTime="1473956768057" />
+      <project id="CloudRumor" values="JDK_1_8,JDK_1_7" collectionTime="1488979927401" />
+      <project id="SuzhouMoney" values="JDK_1_7" collectionTime="1488590637934" />
+      <project id="AnimationDemo" values="JDK_1_7,JDK_1_8" collectionTime="1474205682991" />
+      <project id="MyLeisure" values="JDK_1_7" collectionTime="1486134398002" />
+      <project id="ProgressDialogDemo" values="JDK_1_7" collectionTime="1487259658453" />
+      <project id="DbDemo" values="JDK_1_7" collectionTime="1488986127635" />
+      <project id="MVPSample" values="JDK_1_6" collectionTime="1483197774249" />
+      <project id="Navigation1" values="JDK_1_8,JDK_1_7" collectionTime="1480002507151" />
+      <project id="project" values="JDK_1_7" collectionTime="1480861138127" />
+      <project id="EverMemo-master" values="JDK_1_6" collectionTime="1482848551920" />
+      <project id="MVPSample1" values="JDK_1_8,JDK_1_6" collectionTime="1487689789282" />
+    </group>
+    <group name="file-type">
+      <project id="Navigation2" values="ARCHIVE,Groovy,PLAIN_TEXT,AIDL,XML,ProGuard File,UNKNOWN,IDEA_MODULE,Images,JAVA,Properties" collectionTime="1479915745150" />
+      <project id="PermissionDemo" values="CLASS,JAVA,AIDL,Images,XML,Groovy,IDEA_MODULE,ARCHIVE,Properties,PLAIN_TEXT,ProGuard File,UNKNOWN" collectionTime="1474299056318" />
+      <project id="Talon-for-Twitter-master" values="Adobe Photoshop,Properties,Groovy,ARCHIVE,Images,JAVA,UNKNOWN,PLAIN_TEXT,XML,ProGuard File" collectionTime="1482847869057" />
+      <project id="FireSystem" values="ProGuard File,JAVA,Groovy,IDEA_MODULE,ARCHIVE,Images,Properties,UNKNOWN,AIDL,XML,PLAIN_TEXT" collectionTime="1474122092428" />
+      <project id="MVPtest" values="ARCHIVE,PLAIN_TEXT,Images,Properties,Groovy,AIDL,JAVA,XML,UNKNOWN,ProGuard File,IDEA_MODULE" collectionTime="1487689797507" />
+      <project id="Nevigation3" values="XML,ARCHIVE,AIDL,IDEA_MODULE,Images,JAVA,Properties,Groovy,UNKNOWN,PLAIN_TEXT,ProGuard File" collectionTime="1480002503234" />
+      <project id="ZhuanLan" values="Images,PLAIN_TEXT,JAVA,IDEA_MODULE,Properties,AIDL,ProGuard File,ARCHIVE,YAML,Groovy,XML,CSS" collectionTime="1482852108409" />
+      <project id="ActionbarDemo" values="UNKNOWN,PLAIN_TEXT,ARCHIVE,IDEA_MODULE,ProGuard File,Images,AIDL,JAVA,Properties,XML,Groovy" collectionTime="1474801142873" />
+      <project id="RoundProgressbar" values="ARCHIVE,Groovy,XML,UNKNOWN,ProGuard File,IDEA_MODULE,Properties,JAVA,Images,AIDL,PLAIN_TEXT" collectionTime="1475826896542" />
+      <project id="Axvvb" values="JAVA,Images,AIDL,ARCHIVE,UNKNOWN,Properties,XML,Groovy,PLAIN_TEXT,IDEA_MODULE,ProGuard File" collectionTime="1473956767979" />
+      <project id="CloudRumor" values="ARCHIVE,Groovy,JavaScript,ProGuard File,IDEA_MODULE,Images,HTML,Properties,UNKNOWN,XML,JAVA,AIDL,CSS,PLAIN_TEXT" collectionTime="1488979927369" />
+      <project id="SuzhouMoney" values="JAVA,UNKNOWN,Images,ProGuard File,Groovy,IDEA_MODULE,XML,ARCHIVE,AIDL,Properties,PLAIN_TEXT" collectionTime="1488590637918" />
+      <project id="AnimationDemo" values="Images,Groovy,XML,AIDL,Properties,IDEA_MODULE,UNKNOWN,JAVA,ARCHIVE,PLAIN_TEXT,ProGuard File" collectionTime="1474205682930" />
+      <project id="MyLeisure" values="CSS,JAVA,ProGuard File,AIDL,Properties,IDEA_MODULE,Groovy,Images,PLAIN_TEXT,XML,ARCHIVE" collectionTime="1486134397892" />
+      <project id="ProgressDialogDemo" values="Images,Groovy,CSS,JAVA,AIDL,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,ProGuard File,XML,ARCHIVE,Properties" collectionTime="1487259658399" />
+      <project id="DbDemo" values="ARCHIVE,IDEA_MODULE,XML,ProGuard File,PLAIN_TEXT,Groovy,Images,Properties,AIDL,JAVA,UNKNOWN" collectionTime="1488986127623" />
+      <project id="MVPSample" values="XML,ARCHIVE,Groovy,Properties,Images,PLAIN_TEXT,JAVA,IDEA_MODULE" collectionTime="1483197774202" />
+      <project id="Navigation1" values="Groovy,XML,Properties,JAVA,IDEA_MODULE,Images,AIDL,ARCHIVE,UNKNOWN,PLAIN_TEXT,ProGuard File" collectionTime="1480002507151" />
+      <project id="project" values="IDEA_MODULE,UNKNOWN,AIDL,JAVA,Properties,ProGuard File,PLAIN_TEXT,XML,ARCHIVE,Groovy,Images" collectionTime="1480861138059" />
+      <project id="EverMemo-master" values="Groovy,Images,YAML,UNKNOWN,ARCHIVE,IDEA_MODULE,Properties,XML,JAVA,PLAIN_TEXT" collectionTime="1482848551916" />
+      <project id="MVPSample1" values="Properties,Images,XML,JAVA,ARCHIVE,PLAIN_TEXT,IDEA_MODULE,Groovy" collectionTime="1487689789235" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="Navigation2" values="AndroidRunConfigurationType" collectionTime="1479915745036" />
+      <project id="PermissionDemo" values="AndroidRunConfigurationType" collectionTime="1474299056273" />
+      <project id="FireSystem" values="AndroidRunConfigurationType" collectionTime="1474122092333" />
+      <project id="MVPtest" values="AndroidRunConfigurationType" collectionTime="1487689797461" />
+      <project id="Nevigation3" values="AndroidRunConfigurationType" collectionTime="1480002503137" />
+      <project id="ZhuanLan" values="AndroidRunConfigurationType" collectionTime="1482852108376" />
+      <project id="ActionbarDemo" values="AndroidRunConfigurationType" collectionTime="1474801142732" />
+      <project id="RoundProgressbar" values="AndroidRunConfigurationType" collectionTime="1475826896198" />
+      <project id="Axvvb" values="AndroidRunConfigurationType" collectionTime="1473956767869" />
+      <project id="CloudRumor" values="AndroidRunConfigurationType" collectionTime="1488979927229" />
+      <project id="SuzhouMoney" values="AndroidRunConfigurationType" collectionTime="1488590637793" />
+      <project id="AnimationDemo" values="AndroidRunConfigurationType" collectionTime="1474205682726" />
+      <project id="MyLeisure" values="AndroidRunConfigurationType" collectionTime="1486134397655" />
+      <project id="ProgressDialogDemo" values="AndroidRunConfigurationType" collectionTime="1487259658259" />
+      <project id="DbDemo" values="AndroidRunConfigurationType" collectionTime="1488986127533" />
+      <project id="MVPSample" values="AndroidRunConfigurationType" collectionTime="1483197774093" />
+      <project id="Navigation1" values="AndroidRunConfigurationType" collectionTime="1480002507104" />
+      <project id="project" values="AndroidRunConfigurationType" collectionTime="1480861137889" />
+      <project id="MVPSample1" values="AndroidRunConfigurationType" collectionTime="1487689789051" />
+    </group>
+    <group name="frameworks">
+      <project id="Navigation2" values="android-gradle,java-gradle,android" collectionTime="1479915745035" />
+      <project id="PermissionDemo" values="java-gradle,android,android-gradle" collectionTime="1474299056272" />
+      <project id="Talon-for-Twitter-master" values="android-gradle,android" collectionTime="1482847868935" />
+      <project id="FireSystem" values="java-gradle,android,android-gradle" collectionTime="1474122092332" />
+      <project id="MVPtest" values="android,java-gradle,android-gradle" collectionTime="1487689797461" />
+      <project id="Nevigation3" values="android-gradle,java-gradle,android" collectionTime="1480002503136" />
+      <project id="ZhuanLan" values="android,java-gradle,android-gradle" collectionTime="1482852108376" />
+      <project id="ActionbarDemo" values="android,java-gradle,android-gradle" collectionTime="1474801142732" />
+      <project id="RoundProgressbar" values="java-gradle,android,android-gradle" collectionTime="1475826896196" />
+      <project id="Axvvb" values="android-gradle,android,java-gradle" collectionTime="1473956767869" />
+      <project id="CloudRumor" values="java-gradle,android-gradle,android" collectionTime="1488979927229" />
+      <project id="SuzhouMoney" values="android-gradle,android,java-gradle" collectionTime="1488590637793" />
+      <project id="AnimationDemo" values="android,android-gradle,java-gradle" collectionTime="1474205682725" />
+      <project id="MyLeisure" values="java-gradle,android,android-gradle" collectionTime="1486134397655" />
+      <project id="ProgressDialogDemo" values="android-gradle,android,java-gradle" collectionTime="1487259658258" />
+      <project id="DbDemo" values="java-gradle,android,android-gradle" collectionTime="1488986127532" />
+      <project id="MVPSample" values="android-gradle,java-gradle,android" collectionTime="1483197774093" />
+      <project id="Navigation1" values="java-gradle,android-gradle,android" collectionTime="1480002507104" />
+      <project id="project" values="java-gradle,android,android-gradle" collectionTime="1480861137888" />
+      <project id="EverMemo-master" values="android-gradle,android" collectionTime="1482848551855" />
+      <project id="MVPSample1" values="android,java-gradle,android-gradle" collectionTime="1487689789051" />
+    </group>
+    <group name="module type">
+      <project id="Navigation2" values="JAVA_MODULE" collectionTime="1479915745035" />
+      <project id="PermissionDemo" values="JAVA_MODULE" collectionTime="1474299056272" />
+      <project id="Talon-for-Twitter-master" values="JAVA_MODULE" collectionTime="1482847868935" />
+      <project id="FireSystem" values="JAVA_MODULE" collectionTime="1474122092332" />
+      <project id="MVPtest" values="JAVA_MODULE" collectionTime="1487689797461" />
+      <project id="Nevigation3" values="JAVA_MODULE" collectionTime="1480002503136" />
+      <project id="ZhuanLan" values="JAVA_MODULE" collectionTime="1482852108376" />
+      <project id="ActionbarDemo" values="JAVA_MODULE" collectionTime="1474801142732" />
+      <project id="RoundProgressbar" values="JAVA_MODULE" collectionTime="1475826896196" />
+      <project id="Axvvb" values="JAVA_MODULE" collectionTime="1473956767869" />
+      <project id="CloudRumor" values="JAVA_MODULE" collectionTime="1488979927229" />
+      <project id="SuzhouMoney" values="JAVA_MODULE" collectionTime="1488590637793" />
+      <project id="AnimationDemo" values="JAVA_MODULE" collectionTime="1474205682725" />
+      <project id="MyLeisure" values="JAVA_MODULE" collectionTime="1486134397655" />
+      <project id="ProgressDialogDemo" values="JAVA_MODULE" collectionTime="1487259658259" />
+      <project id="DbDemo" values="JAVA_MODULE" collectionTime="1488986127532" />
+      <project id="MVPSample" values="JAVA_MODULE" collectionTime="1483197774093" />
+      <project id="Navigation1" values="JAVA_MODULE" collectionTime="1480002507104" />
+      <project id="project" values="JAVA_MODULE" collectionTime="1480861137889" />
+      <project id="EverMemo-master" values="JAVA_MODULE" collectionTime="1482848551855" />
+      <project id="MVPSample1" values="JAVA_MODULE" collectionTime="1487689789051" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android_Profiler].hidden" count="4" />
+      <entry feature="StripeButton[Android_Profiler].shown" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Android Profiler" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="88" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="369" />
+      <entry feature="execute.Remote.Debug" count="1" />
+      <entry feature="ide.settings.Android_SDK" count="2" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Folding" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
+      <entry feature="ide.settings.File_Encodings" count="1" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.Genymotion" count="1" />
+      <entry feature="ide.settings.Instant_Run" count="1" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Plugins" count="3" />
+      <entry feature="ide.settings.Project_Structure" count="6" />
+      <entry feature="ide.settings.SexyEditor" count="3" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ideaapp.started" count="155" />
+      <entry feature="terminal.win" count="14" />
+      <entry feature="welcome.screen.HelpTopics" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="34" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="24" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="9" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="11" />
+      <entry feature="welcome.screen.WelcomeScreen.RunAndroidSdkManager" count="9" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="8" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="10" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>
